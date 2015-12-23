@@ -69,3 +69,9 @@ Inserts if/else expression
 Inserts console.log without text
 
 
+### i18 - tab - reformat
+
+    {{'$PARAM1$' | i18n:'$PARAM2$'}}
+Inserts i18n'd string for AngularJS
+
+
