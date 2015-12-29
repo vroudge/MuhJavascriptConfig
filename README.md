@@ -1,6 +1,7 @@
-# WS-live-templates
+# My config
 
 Here are the live templates I always use under Webstorm. Stocked here not to lose them.
+Also, my code scheme for webstorm + my config file for JSCS, which is a pure copy of the airbnb javascript styleguide.
 
 
 ### fata - tab - noreformat
