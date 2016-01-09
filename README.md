@@ -34,8 +34,8 @@ Inserts promise chain start
 
 ### then - tab - noreformat
 
-    .then(($start$) => {
-        $end$
+    .then(($param1$) => {
+        $param2$$end$
     })
 Inserts then expression for chaining with promises
 
@@ -76,3 +76,17 @@ Inserts console.log without text
 Inserts i18n'd string for AngularJS
 
 
+### describe - tab - reformat
+
+    describe('$param1$', ($param2$) => {
+        $param3$$end$
+    });
+Inserts describe expression for tests
+
+
+### it - tab - reformat
+
+    it('$param1$', ($param2$) => {
+        $param3$$end$
+    });
+Inserts it expression for tests
